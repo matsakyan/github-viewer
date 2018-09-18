@@ -1,0 +1,14 @@
+{
+  "name": "GitHub Viewer",
+  "version": "0.0.1",
+  "description": "### Warning -> This is still in early development stage.",
+  "scripts": {
+    "start-dev": "lite-server"
+  },
+  "author": "matsakyan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
